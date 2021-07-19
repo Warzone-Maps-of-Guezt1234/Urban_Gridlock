@@ -23,7 +23,7 @@ A clear and concise description of what the new balance should be.
 **Proposed changes**
 A clear and concise description of what to do to fix the imbalance.
 
-**Example Game**
+**Example game**
 If applicable, add link to the replay.
 
 **Game mode (please complete the following information):**
