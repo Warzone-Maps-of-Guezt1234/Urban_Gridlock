@@ -31,7 +31,7 @@ If applicable, add link to the replay.
  - team or ffa: [e.g. ffa for 4 players, 2 v 2, or 1 v 1] 
  - move order: [e.g. cycle or random]
  - distribution mode: [e.g. 2 bases, 2 v 2, full distribution, random warlords, etc]
- - army settings: [5 income, no luck]
+ - army settings: [0 income, no fog, no luck]
 
 **Additional context**
 Add any other context about the problem here.
