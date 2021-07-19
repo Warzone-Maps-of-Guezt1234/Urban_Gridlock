@@ -35,8 +35,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="285.13622"
+     inkscape:zoom="2"
+     inkscape:cx="324.30327"
      inkscape:cy="261.2069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -322,6 +322,18 @@
        d="m 807.84536,-12.388187 h 40"
        id="path15719"
        inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:0.97000002;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 250,90 200,40"
+       id="path1394"
+       inkscape:connector-curvature="0"
+       transform="translate(357.84531,-202.38809)" />
+    <path
+       style="display:inline;opacity:0.97000002;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 370,210 50,50"
+       id="path1396"
+       inkscape:connector-curvature="0"
+       transform="translate(357.84531,-202.38809)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1844,10 +1856,9 @@
        id="BonusLink_BaseD"
        width="20"
        height="20"
-       x="757.84534"
-       y="27.611914"
-       inkscape:label="#rect16236-3-0-1"
-       transform="translate(-357.84531,202.38809)" />
+       x="440"
+       y="230"
+       inkscape:label="#rect16236-3-0-1" />
     <rect
        transform="translate(-357.84531,202.38809)"
        style="display:inline;fill:#7391ba;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
@@ -1871,10 +1882,9 @@
        id="BonusLink_BaseA"
        width="20"
        height="20"
-       x="557.84534"
-       y="-152.38809"
-       inkscape:label="#rect16236-3-0-1-0-1"
-       transform="translate(-357.84531,202.38809)" />
+       x="160"
+       y="50"
+       inkscape:label="#rect16236-3-0-1-0-1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3211,7 +3221,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Version"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path1377"
