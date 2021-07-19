@@ -20,6 +20,9 @@ Steps to reproduce the imbalance:
 **Expected behavior**
 A clear and concise description of what the new balance should be.
 
+**Proposed changes**
+A clear and concise description of what to do to fix the imbalance.
+
 **Example Game**
 If applicable, add link to the replay.
 
