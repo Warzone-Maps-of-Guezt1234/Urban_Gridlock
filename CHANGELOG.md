@@ -3,6 +3,9 @@ All notable changes to the map will be documented here.
 
 ## Unreleased
 
+## v1.6
+- Emphasize the long connection with a dashed line and light orange arrows.
+
 ## v1.5
 
 ### Aesthetic
