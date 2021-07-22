@@ -3,6 +3,11 @@ All notable changes to the map will be documented here.
 
 ## Unreleased
 
+## v1.5
+
+### Aesthetic
+- Add rounded corners, arrow, and color to the long connection to emphasize it.
+
 ## v1.4
 
 ### Aesthetic
