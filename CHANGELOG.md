@@ -3,7 +3,15 @@ All notable changes to the map will be documented here.
 
 ## Unreleased
 
+## v1.7
+
+### Balance
+- Connect spaghetti junctions 1 and 4 to give the side opening one more way to attack the center.
+
+
 ## v1.6
+
+### Aesthetic
 - Emphasize the long connection with a dashed line and light orange arrows.
 
 ## v1.5
