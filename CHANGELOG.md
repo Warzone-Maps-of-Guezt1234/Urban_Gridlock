@@ -5,6 +5,8 @@ All notable changes to the map will be documented here.
 
 ## v1.8
 - Fix IDs of fake territories in the explanation
+- Clarify the explanation of the roundabouts.
+- Add a series of examples to show change of income.
 
 ## v1.7
 
