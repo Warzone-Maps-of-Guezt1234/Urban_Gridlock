@@ -3,6 +3,9 @@ All notable changes to the map will be documented here.
 
 ## Unreleased
 
+## v1.8
+- Fix IDs of fake territories in the explanation
+
 ## v1.7
 
 ### Balance
