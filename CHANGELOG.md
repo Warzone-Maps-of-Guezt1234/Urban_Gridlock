@@ -3,6 +3,10 @@ All notable changes to the map will be documented here.
 
 ## Unreleased
 
+## v1.9
+- Add the resultants to the income and change of income calculation.
+- Move the description of the change of income to between the examples.
+
 ## v1.8
 - Fix IDs of fake territories in the explanation
 - Clarify the explanation of the roundabouts.
